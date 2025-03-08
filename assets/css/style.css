@@ -1401,7 +1401,7 @@ section {
   margin-bottom: 10px;
 }
 .card-back {
-  background: #007bff;
+  background: #5D3FD3;
   color: #fff;
   transform: rotateY(180deg);
   flex-direction: column;
